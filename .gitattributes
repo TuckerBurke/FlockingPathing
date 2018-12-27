@@ -3,6 +3,7 @@
 *.cginc   text
 *.cs      diff=csharp text
 *.shader  text
+*.aspx    linguist-language=C#
 
 # Unity YAML
 
