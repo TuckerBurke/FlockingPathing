@@ -2,11 +2,12 @@
 ## About
 This is a simulation of flocking and path following behaviors of autonomous agents. Press 'C' to change camera angles and 'D' to enter debug mode. You can download the build [here](ProjectFiles/Builds/Flocking&Pathing.zip) if you would like to see it in action.
 ## Documentation
-I created this game for my Interactive Media Development course at RIT. This was my first project assembled in Unity and was coded using C#. The sprites were hand drawn with ink on tracing papaer for Inktober. The purpose of the assignment was to utilize vector forces for controls and physics. I plan to return to this project at some point to flesh it out as a juicy, fully functional game with levels, upgrades, and more.
+I created this simulation for my Interactive Media Development course at RIT. This simulation utilizes cohesion, separation, and alignment to achieve autonomous flocking of a flock of sheep. The flock is guided via wandering and remains within bounds. There is also a cow which wanders while utilizing a simple path following algorithm. All behaviors utilize vector forces. Sheep and cow assets were downloaded from the Unity Asset Store and are linked below.
 ## Sources 
 [Unity Project Files](ProjectFiles)  
 [C# Scripts](ProjectFiles/Assets/Scripts)  
-[Download and Play](ProjectFiles/Builds/InktoberAsteroids.zip)
+[Download and Play](ProjectFiles/Builds/Flocking&Pathing.zip)
+[Farm Animal Assets](https://assetstore.unity.com/packages/3d/farm-animals-set-97945)
 ## Screenshots
 ![](ScreenShots/InktoberAsteroids_screen3.png?raw=true)
 ![](ScreenShots/InktoberAsteroids_screen1.png?raw=true)
