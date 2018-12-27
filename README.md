@@ -9,6 +9,5 @@ I created this simulation for my Interactive Media Development course at RIT. Th
 [Download and Play](ProjectFiles/Builds/Flocking&Pathing.zip)  
 [Farm Animal Assets](https://assetstore.unity.com/packages/3d/farm-animals-set-97945)
 ## Screenshots
-![](ScreenShots/InktoberAsteroids_screen3.png?raw=true)
-![](ScreenShots/InktoberAsteroids_screen1.png?raw=true)
-![](ScreenShots/InktoberAsteroids_screen2.png?raw=true)
+![](ScreenShots/Screenshot1.png?raw=true)
+![](ScreenShots/Screenshot2.png?raw=true)
